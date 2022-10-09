@@ -35,3 +35,4 @@ answer.innerHTML = ans
 // I cannot find the answer to the problem I have
 // mistyping is my specialty fr
 // Who knew that only doing commit without message makes it mess up lmao
+// I miss my friends I frr wish we could hangout like we use to; or at least naya would talk to me and say she cannot talk rather than ignoring me when she is going through something
