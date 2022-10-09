@@ -33,3 +33,4 @@ answer.innerHTML = ans
 
 
 // I cannot find the answer to the problem I have
+// mistyping is my specialty fr
