@@ -1,10 +1,10 @@
-let fahr = document.querySelector('#f');
-let cel = document.querySelector('#c');
-let answer = document.querySelector('#answer');
-let btn = document.querySelector('#submit');
+let fahr = document.getElementById('f');
+let cel = document.getElementById('c');
+let answer = document.getElementById('answer');
+let btn = document.getElementById('submit');
 
 let f = fahr.value;
-let c = cel.value;
+let c = cel.innerHTML;
 
 let ans = 0;
 
@@ -22,9 +22,14 @@ console.log('mega hit')
 console.log(ans);
 };
 
-ftoc();
-ctof();
-btn.addEventListener('click', ftoc);
+function test(){
+  console.log(fahr)
+  console.log(c)
+}
+// ftoc();
+// ctof();
+btn.addEventListener('click', test);
 answer.innerHTML = ans
 
 
+// I cannot find the answer to the problem I have
