@@ -38,3 +38,4 @@ answer.innerHTML = ans
 // I miss my friends I frr wish we could hangout like we use to; or at least n** would talk to me and say she cannot talk rather than ignoring me when she is going through something
 // I seriouasly want to be so much better than I am. And I know it will take time but there is so much wrong I want it to be right ASAp
 // I am so sleepy
+// The time is 1112 and I want to sleep so bad
