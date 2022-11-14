@@ -30,4 +30,3 @@ function test(){
 // ctof();
 btn.addEventListener('click', test);
 answer.innerHTML = ans
-
