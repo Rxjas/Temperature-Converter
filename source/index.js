@@ -31,7 +31,3 @@ function test(){
 btn.addEventListener('click', test);
 answer.innerHTML = ans
 
-
-// I cannot find the answer to the problem I have
-// mistyping is my specialty fr
-// Who knew that only doing commit without message makes it mess up lmao
