@@ -32,3 +32,4 @@ btn.addEventListener('click', test);
 answer.innerHTML = ans
 
 // Adding a comment to get myself to code so much more
+// Discipline is key to growth
