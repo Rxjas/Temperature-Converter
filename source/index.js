@@ -35,4 +35,3 @@ answer.innerHTML = ans
 // Discipline is key to growth
 // Improvement may not count if you solely notice?
 // COde time
-// Time to study even more coding time bro
