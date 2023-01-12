@@ -3,8 +3,8 @@
 // let answer = document.getElementById('answer');
 // let btn = document.getElementById('submit');
 
-let f = fahr.value;
-let c = cel.innerHTML;
+// let f = fahr.value;
+// let c = cel.innerHTML;
 
 let ans = 0;
 
