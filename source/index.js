@@ -1,10 +1,10 @@
-// let fahr = document.getElementById('f');
-// let cel = document.getElementById('c');
-// let answer = document.getElementById('answer');
-// let btn = document.getElementById('submit');
+let fahr = document.getElementById('f');
+let cel = document.getElementById('c');
+let answer = document.getElementById('answer');
+let btn = document.getElementById('submit');
 
-// let f = fahr.value;
-// let c = cel.innerHTML;
+let f = fahr.value;
+let c = cel.innerHTML;
 
 let ans = 0;
 
@@ -28,7 +28,7 @@ function test(){
 }
 // ftoc();
 // ctof();
-// btn.addEventListener('click', test);
-// answer.innerHTML = ans
+btn.addEventListener('click', test);
+answer.innerHTML = ans
 
 // Adding a comment to get myself to code so much more
